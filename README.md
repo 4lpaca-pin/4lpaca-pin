@@ -1,16 +1,15 @@
-## Hi there 👋
+# About Me 🥳
+I'm roblox ui and exploiter developer
+<hr>
 
-<!--
-**4lpaca-pin/4lpaca-pin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages & Skills
 
-Here are some ideas to get you started:
+[![My Langs](https://skillicons.dev/icons?i=lua,rust,python,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=robloxstudio,nodejs,electron,blender)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning
+
+[![My Langs](https://skillicons.dev/icons?i=cpp,c)](https://skillicons.dev)
+
+### Project
+- [**Airflow UI**](https://github.com/4lpaca-pin/Airflow)

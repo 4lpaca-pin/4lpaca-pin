@@ -13,4 +13,5 @@ I'm roblox ui and exploiter developer
 
 ### Projects
 - [**Airflow UI**](https://github.com/4lpaca-pin/Airflow)
+- [**Fatality-Dark UI**](https://github.com/4lpaca-pin/Fatality)
 - [**Arceney.cc**](https://github.com/4lpaca-pin/Arceney)

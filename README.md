@@ -22,3 +22,4 @@ I'm roblox ui and exploiter developer
 ### Donate
 - Ethereum: ```0xD7aF900623515cb5c9a44d870662B9917615f3fd```
 - Bitcoin: ```bc1qyagjdf2umef0xxy9c4qdqhjvqfsr7sqh4gfwlm```
+- Litecoin: ```ltc1qsy572v5jx5aaydtae3dwhu779gqe7fut73xgc6```

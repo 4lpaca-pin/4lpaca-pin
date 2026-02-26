@@ -1,5 +1,5 @@
 ```rs
-fn main() -> &str {
+fn main() {
     let socials: Vec<(&str,&str)> = vec![
         (
             "Github",
@@ -39,7 +39,5 @@ fn main() -> &str {
     );
 
     println!("{:?}\n{:?}\nNote: {}",socials,skill,bio);
-
-    return "4lpaca.win";
 }
 ```

@@ -34,7 +34,7 @@ fn main() -> &str {
     ];
 
     let bio = format!(
-        "Age {}, Backend & Application Developer",
+        "Age {}, Backend , Application , Roblox User-Interface Developer",
         16
     );
 

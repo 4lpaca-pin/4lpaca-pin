@@ -15,7 +15,7 @@ fn main() {
         ),
         (
             "Steam",
-            "4sas1337"
+            "stdcout1337"
         ),
     ];
 

@@ -19,7 +19,7 @@ fn main() {
         ),
     ];
 
-    let skill: Vec<&str> = vec![
+    let skills: Vec<&str> = vec![
         "LuaU",
         "Lua",
         "JavaScript",
